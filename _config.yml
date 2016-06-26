@@ -10,7 +10,7 @@ theme: Flately
 
 # Authentication
 github_client_id: 1b852049f22ac338e8eb
-gatekeeper_host: odtw-jkan.herokuapp.com
+gatekeeper_host: https://odtw-jkan.herokuapp.com/
 
 # Dataset schema
 schema: default
