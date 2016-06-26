@@ -6,7 +6,7 @@ logo: /img/jkan.png
 
 # Site theme
 # theme: Default
-theme: Slate
+theme: Flately
 
 # Authentication
 github_client_id: 1b852049f22ac338e8eb
