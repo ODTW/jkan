@@ -1,5 +1,5 @@
 ---
-title: Sample Department
+title: 臺灣電力公司
 description: This is an example department provided with a new installation of JKAN
 logo: http://i.imgur.com/mrC5xVT.png
 ---
